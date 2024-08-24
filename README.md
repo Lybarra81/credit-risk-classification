@@ -7,12 +7,15 @@ This analysis aims to develop and assess the accurancy of a data model intended 
 
 ## Results:
 -Balanced Accurancy Score: 95.2%
+
     -This score reflects the model's overall prediciton accuracy, accounting for both sensitivity (recall or true positive rate) and specifically (true negative rate). The model achieved a balanced accuracy of 95.2%
 
 -Precision Score: 85%
+
     -This indicates that 85% of the positive outcomes predicted by the model were correct.
-    
+
 -Recall Score: 91%
+
     -The model demonstarted 91% accuracy in identifying true positives out of all actual positive cases. 
 
 ## Summary:
